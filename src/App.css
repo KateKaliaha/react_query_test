@@ -1,0 +1,10 @@
+:root {
+  --primay: black;
+  --bg-primay: white;
+
+  --link: #2a0b0b;
+}
+
+.App {
+  text-align: center;
+}
